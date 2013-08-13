@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<dataset>
+    <table name="user">
+        <column>email</column>
+        <column>firstName</column>
+        <column>lastName</column>
+        <column>street</column>
+        <column>city</column>
+        <column>state</column>
+        <column>postCode</column>
+        <column>phone</column>
+        <column>country</column>
+        <row>
+            <value>doejohn@example.com</value>
+            <value>John</value>
+            <value>Doe</value>
+            <value>Hatvan utca 6</value>
+            <value>Budapest</value>
+            <value>Hajdubihar</value>
+            <value>11087</value>
+            <value>+3652555444</value>
+            <value>Hungary</value>
+        </row>
+    </table>
+</dataset>
